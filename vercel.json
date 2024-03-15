@@ -17,6 +17,6 @@
     }
   ],
   "env": {
-    "MONGODB_CONNECT_URI": "your_mongodb_uri_here"
+    "MONGODB_CONNECT_URI": "mongodb+srv://rohansinghrathore00:b42naJRFBeTXqFPP@mymongodb.kjktsjn.mongodb.net/?retryWrites=true&w=majority&appName=mymongodb"
   }
 }
